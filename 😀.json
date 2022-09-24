@@ -1,8 +1,8 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://www.emojidb.com/😀",
-    "_label": "😀",
+    "id": "https://www.emojidb.art/😀",
     "type": "LinguisticObject",
+    "_label": "😀",
     "content": "😀",
     "identified_by": [
         {
