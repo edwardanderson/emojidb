@@ -1,0 +1,59 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://www.emojidb.art/👩‍🚀",
+    "type": "Mark",
+    "_label": "Woman Astronaut",
+    "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300412189",
+        "type": "Type",
+        "_label": "Emoji"
+    },
+    "member_of": {
+        "id": "https://unicode.org/emoji/charts/full-emoji-list.html#person-role",
+        "type": "Set",
+        "_label": "person-role"
+    },
+    "identified_by": [
+        {
+            "id": "https://www.emojidb.art/identifier/👩‍🚀",
+            "type": "Identifier",
+            "content": "👩‍🚀",
+            "part": [
+                {
+                    "id": "https://www.emojidb.art/identifier/👩",
+                    "type": "Identifier",
+                    "content": "👩"
+                },
+                {
+                    "id": "https://www.emojidb.art/identifier/🚀",
+                    "type": "Identifier",
+                    "content": "🚀"
+                }
+            ]
+        }
+    ],
+    "part": [
+        {
+            "id": "https://www.emojidb.art/🧑‍🚀",
+            "type": "Mark",
+            "_label": "Astronaut"
+        },
+        {
+            "id": "https://www.emojidb.art/👩",
+            "type": "Mark",
+            "_label": "Woman"
+        }
+    ],
+    "equivalent": [
+        {
+            "id": "https://unicode.org/emoji/charts/full-emoji-list.html#1f469_200d_1f680",
+            "type": "Mark",
+            "_label": "woman astronaut"
+        },
+        {
+            "id": "http://📙.la/👩‍🚀",
+            "type": "Mark",
+            "_label": "woman astronaut"
+        }
+    ]
+}

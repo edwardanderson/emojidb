@@ -1,0 +1,54 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://www.emojidb.art/👩",
+    "type": "Mark",
+    "_label": "Woman",
+    "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300412189",
+        "type": "Type",
+        "_label": "Emoji"
+    },
+    "member_of": {
+        "id": "https://unicode.org/emoji/charts/full-emoji-list.html#person",
+        "type": "Set",
+        "_label": "person"
+    },
+    "identified_by": [
+        {
+            "type": "Name",
+            "content": "Woman",
+            "language": {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+            }
+        },
+        {
+            "id": "https://www.emojidb.art/identifier/👩",
+            "type": "Identifier",
+            "content": "👩"
+        }
+    ],
+    "represents_instance_of_type": {
+        "id": "http://vocab.getty.edu/aat/300189557",
+        "type": "Type",
+        "_label": "female",
+        "classified_as": {
+            "id": "http://vocab.getty.edu/aat/300055147",
+            "type": "Type",
+            "_label": "gender"
+        }
+    },
+    "equivalent": [
+        {
+            "id": "https://unicode.org/emoji/charts/full-emoji-list.html#1f469",
+            "type": "Mark",
+            "_label": "woman"
+        },
+        {
+            "id": "http://📙.la/👩",
+            "type": "Mark",
+            "_label": "woman"
+        }
+    ]
+}

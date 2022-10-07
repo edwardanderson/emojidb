@@ -1,0 +1,99 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://www.emojidb.art/🍎",
+    "type": "Mark",
+    "_label": "Red Apple",
+    "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300412189",
+        "type": "Type",
+        "_label": "Emoji"
+    },
+    "member_of": {
+        "id": "https://unicode.org/emoji/charts/full-emoji-list.html#food-fruit",
+        "type": "Set",
+        "_label": "food-fruit",
+        "member_of": {
+            "id": "https://unicode.org/emoji/charts/full-emoji-list.html#food_&_drink",
+            "type": "Set",
+            "_label": "Food & Drink"
+        }
+    },
+    "identified_by": [
+        {
+            "type": "Name",
+            "content": "Red Apple",
+            "language": {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+            }
+        },
+        {
+            "type": "Name",
+            "content": "Pomme Rouge",
+            "language": {
+                "id": "http://vocab.getty.edu/aat/300388306",
+                "type": "Language",
+                "_label": "French"
+            }
+        },
+        {
+            "id": "https://www.emojidb.art/identifier/🍎",
+            "type": "Identifier",
+            "content": "🍎"
+        },
+        {
+            "type": "Identifier",
+            "content": "1F469 200D 1F680",
+            "classified_as": {
+                "id": "http://www.wikidata.org/entity/Q109615047",
+                "type": "Type",
+                "_label": "Unicode code point"
+            }
+        },
+        {
+            "type": "Identifier",
+            "content": ":apple:",
+            "classified_as": {
+                "id": "http://www.wikidata.org/entity/Q114228968",
+                "type": "Type",
+                "_label": "Shortcode"
+            }
+        }
+    ],
+    "represents_instance_of_type": {
+        "id": "http://vocab.getty.edu/aat/300266417",
+        "type": "Type",
+        "_label": "apples (fruits)"
+    },
+    "digitally_shown_by": {
+        "type": "Digital Object",
+        "dimension": {
+            "type": "Dimension",
+            "classified_as": [
+                {
+                    "id": "http://vocab.getty.edu/aat/300080438",
+                    "type": "Type",
+                    "_label": "Colour"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300126225",
+                    "type": "Type",
+                    "_label": "Red"
+                }
+            ]
+        }
+    },
+    "equivalent": [
+        {
+            "id": "https://unicode.org/emoji/charts/full-emoji-list.html#1f34e",
+            "type": "Mark",
+            "_label": "red apple"
+        },
+        {
+            "id": "http://📙.la/🍎",
+            "type": "Mark",
+            "_label": "red apple"
+        }
+    ]
+}
