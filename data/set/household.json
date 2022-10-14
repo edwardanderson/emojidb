@@ -1,0 +1,25 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.emojidb.art/set/household",
+  "type": "Set",
+  "_label": "household",
+  "identified_by": {
+    "type": "Name",
+    "content": "Household",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300404670",
+      "type": "Type",
+      "_label": "Primary Name"
+    },
+    "language": {
+      "id": "http://vocab.getty.edu/aat/300388277",
+      "type": "Language",
+      "_label": "English"
+    }
+  },
+  "member_of": {
+    "id": "https://www.emojidb.art/set/objects",
+    "type": "Set",
+    "_label": "Objects"
+  }
+}

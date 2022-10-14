@@ -1,0 +1,25 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.emojidb.art/set/animal-amphibian",
+  "type": "Set",
+  "_label": "animal-amphibian",
+  "identified_by": {
+    "type": "Name",
+    "content": "Animal Amphibian",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300404670",
+      "type": "Type",
+      "_label": "Primary Name"
+    },
+    "language": {
+      "id": "http://vocab.getty.edu/aat/300388277",
+      "type": "Language",
+      "_label": "English"
+    }
+  },
+  "member_of": {
+    "id": "https://www.emojidb.art/set/animals_&_nature",
+    "type": "Set",
+    "_label": "Animals & Nature"
+  }
+}

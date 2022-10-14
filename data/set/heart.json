@@ -1,0 +1,25 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.emojidb.art/set/heart",
+  "type": "Set",
+  "_label": "heart",
+  "identified_by": {
+    "type": "Name",
+    "content": "Heart",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300404670",
+      "type": "Type",
+      "_label": "Primary Name"
+    },
+    "language": {
+      "id": "http://vocab.getty.edu/aat/300388277",
+      "type": "Language",
+      "_label": "English"
+    }
+  },
+  "member_of": {
+    "id": "https://www.emojidb.art/set/smileys_&_emotion",
+    "type": "Set",
+    "_label": "Smileys & Emotion"
+  }
+}

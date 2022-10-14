@@ -1,0 +1,20 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.emojidb.art/set/component",
+  "type": "Set",
+  "_label": "Component",
+  "identified_by": {
+    "type": "Name",
+    "content": "Component",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300404670",
+      "type": "Type",
+      "_label": "Primary Name"
+    },
+    "language": {
+      "id": "http://vocab.getty.edu/aat/300388277",
+      "type": "Language",
+      "_label": "English"
+    }
+  }
+}

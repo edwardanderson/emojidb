@@ -1,0 +1,54 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.emojidb.art/🧟‍♂",
+  "type": "Mark",
+  "_label": "man zombie",
+  "classified_as": {
+    "id": "http://vocab.getty.edu/aat/300412189",
+    "type": "Type",
+    "_label": "Emoji"
+  },
+  "identified_by": [
+    {
+      "type": "Name",
+      "content": "Man Zombie",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300404670",
+        "type": "Type",
+        "_label": "Primary Name"
+      },
+      "language": {
+        "id": "http://vocab.getty.edu/aat/300388277",
+        "type": "Language",
+        "_label": "English"
+      }
+    },
+    {
+      "id": "https://www.emojidb.art/identifier/🧟‍♂",
+      "type": "Identifier",
+      "content": "🧟‍♂",
+      "part": [
+        {
+          "id": "https://www.emojidb.art/identifier/🧟",
+          "type": "Identifier",
+          "content": "🧟"
+        },
+        {
+          "id": "https://www.emojidb.art/identifier/‍",
+          "type": "Identifier",
+          "content": "‍"
+        },
+        {
+          "id": "https://www.emojidb.art/identifier/♂",
+          "type": "Identifier",
+          "content": "♂"
+        }
+      ]
+    }
+  ],
+  "member_of": {
+    "id": "https://www.emojidb.art/set/person-fantasy",
+    "type": "Set",
+    "_label": "person-fantasy"
+  }
+}

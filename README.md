@@ -1,7 +1,5 @@
 # EmojiDB
 
-An [Linked Art](https://linked.art/) knowledge graph of emojis.
+A [Linked Art](https://linked.art/) knowledge graph of emojis, built from [Unicode Emoji Charts v15.0](https://unicode.org/Public/emoji/15.0/).
 
-Data generated with [Emoji](https://github.com/carpedm20/emoji).
-
-Refer to the [patterns](patterns.md)
+Refer to the [modelling patterns](patterns.md) and the [examples](examples/).

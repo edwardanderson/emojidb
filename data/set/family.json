@@ -1,0 +1,25 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.emojidb.art/set/family",
+  "type": "Set",
+  "_label": "family",
+  "identified_by": {
+    "type": "Name",
+    "content": "Family",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300404670",
+      "type": "Type",
+      "_label": "Primary Name"
+    },
+    "language": {
+      "id": "http://vocab.getty.edu/aat/300388277",
+      "type": "Language",
+      "_label": "English"
+    }
+  },
+  "member_of": {
+    "id": "https://www.emojidb.art/set/people_&_body",
+    "type": "Set",
+    "_label": "People & Body"
+  }
+}

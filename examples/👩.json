@@ -17,6 +17,11 @@
         {
             "type": "Name",
             "content": "Woman",
+            "classified_as": {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "Primary Name"
+            },
             "language": {
                 "id": "http://vocab.getty.edu/aat/300388277",
                 "type": "Language",

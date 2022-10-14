@@ -1,0 +1,25 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.emojidb.art/set/food-vegetable",
+  "type": "Set",
+  "_label": "food-vegetable",
+  "identified_by": {
+    "type": "Name",
+    "content": "Food Vegetable",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300404670",
+      "type": "Type",
+      "_label": "Primary Name"
+    },
+    "language": {
+      "id": "http://vocab.getty.edu/aat/300388277",
+      "type": "Language",
+      "_label": "English"
+    }
+  },
+  "member_of": {
+    "id": "https://www.emojidb.art/set/food_&_drink",
+    "type": "Set",
+    "_label": "Food & Drink"
+  }
+}

@@ -21,7 +21,7 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
@@ -37,21 +37,16 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
         "_label": "Emoji"
     },
     "member_of": {
-        "id": "https://unicode.org/emoji/charts/full-emoji-list.html#food-fruit",
+        "id": "https://www.emojidb.art/group/food-fruit",
         "type": "Set",
-        "_label": "food-fruit",
-        "member_of": {
-            "id": "https://unicode.org/emoji/charts/full-emoji-list.html#food_&_drink",
-            "type": "Set",
-            "_label": "Food & Drink"
-        }
+        "_label": "food-fruit"
     }
 }
 ```
@@ -63,7 +58,7 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
@@ -72,6 +67,11 @@
     "identified_by": {
         "type": "Name",
         "content": "Red Apple",
+        "classified_as": {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "Primary Name"
+        },
         "language": {
             "id": "http://vocab.getty.edu/aat/300388277",
             "type": "Language",
@@ -88,7 +88,7 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
@@ -98,6 +98,11 @@
         {
             "type": "Name",
             "content": "Red Apple",
+            "classified_as": {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "Primary Name"
+            },
             "language": {
                 "id": "http://vocab.getty.edu/aat/300388277",
                 "type": "Language",
@@ -107,6 +112,11 @@
         {
             "type": "Name",
             "content": "Pomme Rouge",
+            "classified_as": {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "Primary Name"
+            },
             "language": {
                 "id": "http://vocab.getty.edu/aat/300388306",
                 "type": "Language",
@@ -124,7 +134,7 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
@@ -205,7 +215,7 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
@@ -266,7 +276,7 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
@@ -328,7 +338,7 @@
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "id": "https://www.emojidb.art/🍎",
     "type": "Mark",
-    "_label": "Red Apple",
+    "_label": "red apple",
     "classified_as": {
         "id": "http://vocab.getty.edu/aat/300412189",
         "type": "Type",
